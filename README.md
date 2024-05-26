@@ -29,17 +29,17 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-sh
+
 Copy code
 git clone https://github.com/yourusername/myntra-clone.git
 Navigate to the project directory:
 
-sh
+
 Copy code
 cd myntra-clone
 Open the index.html file in your browser:
 
-sh
+
 Copy code
 open index.html
 Usage
